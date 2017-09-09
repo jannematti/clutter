@@ -1,6 +1,6 @@
 {
   "name": "clutter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tiny string generator/manipulation/mess toolkit for a javascript.",
   "main": "lib/clutter.js",
   "scripts": {
